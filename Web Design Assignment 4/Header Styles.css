@@ -1,0 +1,42 @@
+@charset "UTF-8";
+.header_rule  {
+    display: block;
+    width: 100%;
+}
+.navbar  {
+    float: left;
+    width: 100%;
+    padding-top: 14px;
+    padding-left: 20px;
+    padding-right: 4px;
+    padding-bottom: 14px;
+    background-color: #F4E8E5;
+    font-family: gotham;
+    display: block;
+}
+.wrapper {
+    margin-left: 30px;
+    margin-top: 49px;
+    margin-bottom: auto;
+    padding-left: 14px;
+    padding-top: 14px;
+    padding-right: 14px;
+    padding-bottom: 14px;
+    font-family: gotham;
+}
+h1   {
+    font-family: gotham;
+    color: #453F3D;
+}
+footer  {
+    font-family: gotham;
+    font-size: small;
+    text-align: center;
+    color: #BAA6A1;
+    background-color: #523B35;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+h2 {
+    color: #867875;
+}
